@@ -1,4 +1,4 @@
-# Realistic-Face-Generation-
+# Realistic-Face-Generation
 
 Welcome to the "Realistic Face Generation using GAN" repository! This project explores the fascinating world of Generative Adversarial Networks (GANs) applied to the generation of highly realistic human faces. GANs have revolutionized the field of artificial intelligence by enabling the creation of images, including faces, that are often indistinguishable from real photographs.
 
